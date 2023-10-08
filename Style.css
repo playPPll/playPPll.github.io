@@ -1,0 +1,63 @@
+body {
+background: rgb(98, 98, 93);
+    color: #f7f7f7;
+    font-family:monospace;
+    font-size: 1.5em;    
+}
+div {
+    border: 1px solid black;
+    box-shadow: 10px 5px 5px #d1d1d1;
+    width: 40em;
+    padding: 1em;
+    margin: 2em;
+}
+img{
+    width: 650px;
+    border-radius: 80px;
+}
+
+p{
+    width: 650px;
+     padding-left: 50px;
+}
+
+a{
+    background: #bababa;
+    padding: 6px 30px;
+    border-radius: 80px;
+    color: #000000;
+    text-decoration: none;
+
+}
+
+
+.menu_link{
+    background: #ffffff;
+    color: #000000;
+    border-radius: 0px;
+    font-size: 30px;
+    transition: 1s;
+}
+
+
+.menu_link:hover {
+    background: #bcbcbc;
+    transition: 1s;
+    border-radius: 10px;
+    font-size: 30px;
+}
+
+
+
+h2{
+    font-size: 50px;
+    padding-left: 50px;
+    
+}
+
+
+
+
+
+
+
